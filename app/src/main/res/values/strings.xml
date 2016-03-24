@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sanat\'s Portfolio</string>
+
+    <string-array name="apps">
+        <item>What\'s My Postal Code</item>
+        <item>PickrUp</item>
+        <item>Mess Menu</item>
+        <item>App 1</item>
+        <item>App 2</item>
+    </string-array>
+
+    <string-array name="apps_drawable">
+        <item>postal</item>
+        <item>pickrup</item>
+        <item>messmenu</item>
+    </string-array>
+
+    <string-array name="apps_links">
+        <item>https://play.google.com/store/apps/details?id=com.satan.wtfismypostalcode</item>
+        <item>https://play.google.com/store/apps/details?id=com.pickup.pickrup</item>
+        <item>https://play.google.com/store/apps/details?id=iitm.satan.messmenu</item>
+    </string-array>
+</resources>
